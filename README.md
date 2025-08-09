@@ -1,0 +1,2 @@
+# MiniTicketSystem
+This project presents a comprehensive **Event Ticket Booking System** developed using Java Swing GUI framework. The application demonstrates advanced programming concepts including object-oriented design, graphical user interface development, and software engineering best practices. The system provides a complete booking workflow from event browsing to payment processing and receipt generation.
