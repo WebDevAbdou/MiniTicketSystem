@@ -1,6 +1,6 @@
 # 🎫 Event Ticket Booking System
 
-A professional, modern event ticket booking application built with Java Swing for **BIT 4043 Object-Oriented Programming** course.
+A professional, modern event ticket booking application built with Java Swing.
 
 ## ✨ Key Features
 
@@ -218,14 +218,5 @@ MiniTicketSystem/
 - ✅ **Threading**: Background processing concepts
 - ✅ **File I/O**: PDF generation and image loading
 - ✅ **Software Design**: Clean architecture and code organization
-
-## 👨‍💻 Academic Information
-
-**Course**: BIT 4043 Object-Oriented Programming  
-**Level**: Semester 2 IT Student  
-**Project Type**: GUI Application Development  
-**Assessment Focus**: Requirements (5%), Teamwork (5%), Presentation (50%), Creativity (20%), Functionality (15%)
-
----
 
 *This project demonstrates comprehensive understanding of Java Swing GUI development, object-oriented programming principles, and professional software design practices suitable for academic presentation and evaluation.*
